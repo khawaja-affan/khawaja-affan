@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm khawaja-affan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img src="https://netart.commons.gc.cuny.edu/files/2017/06/Running-Code.gif" alt="" width="1000" height="700"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawaja-affan&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-affan" /> </p>
 
