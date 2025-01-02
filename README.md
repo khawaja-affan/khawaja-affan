@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **khurramaffan23@gmail.com**
+- 📫 How to reach me **khawajaaffan0321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
