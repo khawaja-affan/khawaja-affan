@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm khawaja-affan</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Ff4ec9b75736a98be5f6198f5ae40b897&psig=AOvVaw0HzN_eYoyCznjnX7s19h9O&ust=1754971573354000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCOpePwgY8DFQAAAAAdAAAAABAL" alt="" width="1000" height="700"> 
+<img src="https://gist.github.com/vibern0/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" alt="" width="1000" height="700"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawaja-affan&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-affan" /> </p>
