@@ -1,80 +1,42 @@
-<!-- 🧑‍💻 Khawaja Affan | Full Stack Developer & Creator Extraordinaire -->
+# Hi 👋, I'm KHAWAJA-AFFAN-KHURRAM
 
-<p align="center">
-  <img src="https://i.ibb.co/NyHv6Fj/anime-coding.gif" width="100%" alt="anime coding banner">
+### Frontend Developer | React.js Enthusiast | Freelancer
+
+- 🔭 I'm currently working on **React.js projects and frontend-focused web applications
+**
+
+- 🌱 I'm currently learning **Advanced JavaScript, React patterns & Node.js
+**
+
+- 👯 I'm looking to collaborate on **Frontend projects, React apps, and open-source repositories
+**
+
+- 🤝 I'm looking for help with **Improving backend concepts and real-world project structure
+**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, freelancing basics
+**
+
+- 📫 How to reach me **affankhurramdev01@gmail.com**
+
+- ⚡ Fun fact **I code better when music is playing 🎧
+**
+
+- 📝 I regularly write articles on **[https://github.com/khawaja-affan](https://github.com/khawaja-affan)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/khawaja-affan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="khawaja-affan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/affankhurram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="affankhurram" height="30" width="40" /></a>
+<a href="https://codepen.io/affan_dev01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="affan_dev01" height="30" width="40" /></a>
+<a href="https://codesandbox.io/affan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="affan-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/affan_dev01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="affan_dev01" height="30" width="40" /></a>
+<a href="https://youtube.com/affanbhaivlogs209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="affanbhaivlogs209" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/khawajaaffan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khawajaaffan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/affan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="affan-dev" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/YrRhncVn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YrRhncVn" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋,+I'm+Khawaja+Affan!;Full+Stack+Developer+💻;Anime+Lover+⚡;Building+Creative+Web+Experiences!" alt="Typing SVG" />
-</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
----
-
-## 🧠 About Me
-
-Hello! I'm **Khawaja Affan** from Pakistan 🇵🇰.  
-I love **coding, gaming, music, freelancing**, and exploring **e-commerce trends**.  
-
-When I'm not building web apps, you can find me:  
-
-- 🎵 Vibing to LoFi/Anime music  
-- 🎮 Gaming and exploring game dev  
-- 💻 Working with **HTML, CSS, JavaScript, Node.js & React.js**  
-- 🛒 Exploring **e-commerce & online business**  
-- 💼 Doing **freelancing projects**  
-
-> I believe in **learning by doing**, and every project is a step toward mastering web development.
-
----
-## 🚀 Skills & Tools
-<div align="center">
-
-**Languages & Frameworks**  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-**Tools & Platforms**  
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Interests
-
-- 💻 Web Development Projects  
-- 🎵 Music & Anime  
-- 🎮 Gaming & Game Development Curiosity  
-- 🛒 E-commerce & Online Business  
-- 💼 Freelancing & Tech Entrepreneurship  
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khawaja-affan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affankhurram)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@affanbhaivlogs209)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affankhurramdev01@gmail.com)
-
----
-
-> ⚡ Fun Fact: I debug faster when LoFi or Anime music is playing! 🎧
-
----
-
-✅ **Features of this README:**  
-- Animated **banner GIF** at top  
-- Animated **typing SVG intro**  
-- Clean **About Me** section  
-- **Developer Profile** with hobbies & fun fact  
-- Centered **Skills & Tools** badges (animated feel via Shields.io)  
-- Interests and Connect section with social links  
-- Fun, modern developer look – ready to impress anyone visiting your GitHub  
