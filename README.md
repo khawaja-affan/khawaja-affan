@@ -21,14 +21,9 @@
   </a>
 </p>
 
----
 
-### 📊 My Contribution Snake:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/khawaja-affan/khawaja-affan/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
 
----
+
 
 ### 🤝 Connect with Me:
 
